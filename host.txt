@@ -1,7 +1,7 @@
 # Roku
 0.0.0.0 retail-prod.web.roku.com
 0.0.0.0 amoeba.web.roku.com
-0.0.0.0 api.roku.com
+# 0.0.0.0 api.roku.com
 0.0.0.0 assets.sr.roku.com
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 captive.roku.com
